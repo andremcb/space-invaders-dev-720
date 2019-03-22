@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT space_invaders_dev_720.wsgi:application

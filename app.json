@@ -1,0 +1,1 @@
+{"name": "Space Invaders", "description": "This django application was built with Crowdbotics www.crowdbotics.com", "repository": "https://github.com/andremcb/space-invaders-dev-720", "keywords": ["web", "django"], "env": {"DEBUG_COLLECTSTATIC": "1"}, "addons": ["heroku-postgresql:hobby-dev", "sendgrid:starter"], "scripts": {"postdeploy": "./postdeploy.sh"}}
